@@ -177,6 +177,18 @@ ul{
     
 }
 
+.trending-user{
+    display: flex;
+}
+
+.announcement-title{
+    font-weight: bold;
+}
+
+.announcement-text{
+    font-size: small;
+}
+
 /*--CONTENT SECTION--*/
 .content{
     grid-column: 2/3;
