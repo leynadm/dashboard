@@ -12,11 +12,6 @@ body {
     box-sizing: border-box;
 }
 
-img{
-    width: auto;
-    height: auto;
-}
-
 /* HEADER SECTION */
 .header{
     padding: 8px;
@@ -184,7 +179,12 @@ ul{
 
 .trending-user-photo{
     padding: 4px;
+    width: 32px;
+    height: 32px;
+    align-self: center;
+    justify-self: center;
 }
+
 
 .user-pseudo{
     font-size:medium;
